@@ -7,5 +7,7 @@ At the very least, the Chronians never made contact with Earth, so they can't wa
 
 # Controls
 Movement: Left and Right Arrow Keys
+
 Shooting Laser Beams: Space Bar
+
 Be careful!  The ship overheats when firing laser beams, so if there's three beams on the screen, you'll need to wait to be able to fire again...
