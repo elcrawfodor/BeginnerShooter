@@ -1,6 +1,3 @@
-# BeginnerShooter
-Intro to CS Project
-
 # Story
 The year is 9601.  The Gaussian Fleet has been all but decimated in a last stand to defend Earth from the invading Chronians.  Unable to bear the loss of his home planet, one remaining Gaussian pilot vows to fight off the Chronians for as long as he can before the inevitable demise of his planet.
 
